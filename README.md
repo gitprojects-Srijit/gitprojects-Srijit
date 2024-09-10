@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bhowmicksrijit99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-yFR67IId6cD9uO3sQ7o6PY6VqexdbIJ/view?usp=drive_link](https://drive.google.com/file/d/1-yFR67IId6cD9uO3sQ7o6PY6VqexdbIJ/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16xj-JRiD6vl8cTaHh-i0xk8A5nBFbjVT/view?usp=sharing](https://drive.google.com/file/d/16xj-JRiD6vl8cTaHh-i0xk8A5nBFbjVT/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm Funny 😅**
 
