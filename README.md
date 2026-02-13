@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitprojects-srijit&label=Profile%20views&color=0e75b6&style=flat" alt="gitprojects-srijit" /> </p>
 
-- 🌱 I’m currently working on **Full-Stack Web Development**
+- 🌱 I’m currently working on **MERN-Stack Web Development**
 
-- 💬 Ask me about **C, Java, JavaScript, HTML, CSS, MERN Stack**
+- 💬 Ask me about **C, Java, JavaScript, HTML, CSS, React, Node.js**
 
 - 📫 How to reach me **bhowmicksrijit99@gmail.com**
 
