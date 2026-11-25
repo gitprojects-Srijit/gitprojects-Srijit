@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Databay showcase gif" title="Databay showcase gif" width="1015" height="350"/>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Databay showcase gif" title="Databay showcase gif" width="1015" height="350"/> -->
 <h1 align="center">Hi 👋, I'm Srijit Bhowmick.</h1>
 <h3 align="center">🔭 A passionate coding enthusiast, fueled by curiosity and creativity.🌟 ⚡ Always willing to explore and learn new technologies, transforming ideas into reality through the power of programming.💻 🤝 Let's collaborate and build together.🌐👯</h3>
 
@@ -6,13 +6,12 @@
 
 - 🌱 I’m currently working on **MERN-Stack Web Development**
 
-- 💬 Ask me about **C, Java, JavaScript, HTML, CSS, React, Node.js**
+- 💬 Knowledge of **C, Java, JavaScript, HTML, CSS, React.js, Node.js, and MongoDB.**
 
 - 📫 How to reach me **bhowmicksrijit99@gmail.com**
 
 - 📄 Know about my experiences [[https://drive.google.com/file/d/16xj-JRiD6vl8cTaHh-i0xk8A5nBFbjVT/view?usp=drive_link](https://drive.google.com/file/d/1dyBSSqgFgHoEZN4xCq8GXRAoSEOrBUZb/view?usp=drive_link)]
 
-- ⚡ Fun fact **I think I'm Funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
